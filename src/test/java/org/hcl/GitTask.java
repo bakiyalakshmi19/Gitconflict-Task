@@ -14,4 +14,13 @@ public class GitTask {
 		 System.out.println("test3");
 			
 	}
+	 private void test4() {
+		 System.out.println("test4");
+		
+	}
+	 private void test5() {
+		 System.out.println("test5");
+			
+	}
+	 
 }
